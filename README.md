@@ -33,8 +33,6 @@ The data source for populating the star schema is the store's online transaction
 
 - **DataStage Jobs:** Contains the dsx files for the DataStage jobs.
 - **Dataset:** Contains the data after modeling in a star schema data warehouse model.
-- **MetaData:** Contains the metadata of the tables used in DataStage jobs.
-- **Output_Data:** Contains samples of the data after analysis.
 
 ### Conclusion:
 
